@@ -1,2 +1,3 @@
-# PersonalPortfolio-FreeCodeCamp
-Fifth Responsive Web Design project from FreeCodeCamp: Personal Portfolio
+# PersonalPortfolio
+#### Description: Fifth Responsive Web Design project from FreeCodeCamp: Personal Portfolio
+This project is a personal portfolio page that includes the four other projects I completed for the Responsive Web Design section of FreeCodeCamp. I included a navigation bar in the top right of the page with topics that can be clicked on to jump to their specific part of the page. I included an "About Me" section with my name and the fact that I am aspiring to become a software developer. I also included a "Projects" section that includes the four other projects I completed for the Responsive Web Design section of FreeCodeCamp. I included a picture of each project that can be clicked on in order to navigate to their respective page on CodePen. I also included a "Contact Me" section that contains links to my FreeCodeCamp, GitHub, and LinkedIn profiles.
